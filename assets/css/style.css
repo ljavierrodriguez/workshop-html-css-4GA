@@ -9,19 +9,19 @@ body {
 
 .login {
     width: 800px;
-    height: auto;
+    height: 500px;
     display: flex;
-
 }
 
 .login .login-left {
     width: 350px;
-    height: auto;
+    height: 500px;
 }
 
 .login .login_left img {
     width: 100%;
     height: 500px;
+    object-fit: cover;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;
 }
